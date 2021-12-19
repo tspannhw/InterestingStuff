@@ -11,3 +11,11 @@
 * https://docs.luxonis.com/en/latest/index.html
 * https://github.com/cbornet/generator-jhipster-pulsar
 * https://github.com/micronaut-projects/micronaut-pulsar
+* https://sysadvent.blogspot.com/2021/12/day-16-setting-up-k3s-in-your-home-lab.html
+* https://kube.academy/courses
+* https://github.com/kelseyhightower/kubernetes-the-hard-way
+* https://github.com/tensorflow/serving
+* https://github.com/tensorflow/serving/blob/master/tensorflow_serving/g3doc/serving_basic.md
+* https://github.com/tensorflow/serving/blob/master/tensorflow_serving/g3doc/docker.md
+* https://github.com/vespa-engine/vespa
+* 
